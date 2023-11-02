@@ -1,0 +1,16 @@
+.header {
+    background-color: blue;
+    display: flex;
+    align-items: flex-start; /* Align items to the start (top) */
+  }
+  
+  .header img {
+    margin-top: 20px;
+    max-height: 100px; /* Adjust the max-height of the image */
+    margin-right: 20px; /* Add space between the image and text */
+  }
+  
+  .header p {
+    font-size: 3em; /* Set the font size to a larger size */
+    color: white; /* Change the text color to white */
+  }
